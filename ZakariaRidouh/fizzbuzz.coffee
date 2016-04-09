@@ -1,4 +1,4 @@
-// Very simple Fizzbuzz Program by Zakaria Ridouh
+# Very simple Fizzbuzz Program by Zakaria Ridouh
 fizzBuzz = ->
   i = 1
   while i <= 100
@@ -12,4 +12,4 @@ fizzBuzz = ->
       console.log i
     i++
   return
-// End
+# End 
